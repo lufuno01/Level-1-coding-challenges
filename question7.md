@@ -1,2 +1,0 @@
-Since this is a self-paced course I do not have any daily routines that I follow daily to complete the activities that have been rendered out to me and I have no approximately hours that I spend on my tasks. Every chance that I get every day to complete my tasks I give my best since I do not have too many commitments going on in my life right now I take this course as my full-time job because I want to succeed in the end.
-
