@@ -1,1 +1,0 @@
-There is no any other way that I won't make it the only thing that I know is that I have to make it is the only option that I have on the table, there's no any other option this is the only thing I want I will do whatever it takes to make it work and I am willing to protect my dreams by any means neccessary there's nothing that will come between and my dreams.
