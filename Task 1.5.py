@@ -1,3 +1,16 @@
-I am a goal-oriented person, self-motivated, and  I am a go-getter. I have this burning desire, perseverance embedded in me, and ambition that always pushes me to go beyond my limitations in everything that I do even if it means I have to go the extra mile I am willing to due to the love that I have for programming I can not even resist the way it makes me feel it gives me hope whenever I let the syntax flow out of my hands into the compiler. The main reason that makes me think that I will succeed as a coder is that I am hungry to learn new things and I wanna be seen as someone who can rely upon to do an amazing job and always complete tasks and projects to a higher standard. I am a competent and highly effective person.
+def triangle(num):
+    for i in range(num):
+        for j in range(i + 1):
+            print("#")
+    print()
 
-I am a very well-organized and hardworking person I plan my things thoroughly so that even when a stressful situation comes by I know how to handle it since I know how I will be carrying out my tasks throughout that period. I am a very hard-working person whose dedicated and someone who has high levels of integrity I like to do things the right way and I also believe you only get what you want in life through hard work, commitment and dedication. This above attributes that I have mentioned above I highly believe are aligned with what it takes in life to be a successful coder without these attributes I would be where I am today I would have not fallen in love with coding if I barely consisted these attributes I would not have been where I am today without this traits.
+    while num < 0:
+        absolute_number = abs(num)
+
+    for k in range(absolute_number):
+        for x in range(absolute_number - k):
+            print("#")
+    print()
+
+
+triangle(4)
